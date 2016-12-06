@@ -1,5 +1,5 @@
 {
-  "name": "lightjs",
+  "name": "@akagi201/lightjs",
   "version": "0.1.0",
   "description": "A light boilerplate for building an npm package using webpack with javascript transpilation through babel",
   "main": "index.js",

@@ -1,6 +1,6 @@
 # lightjs
 
-[![Version](http://img.shields.io/npm/v/lightjs.svg)](https://www.npmjs.org/package/lightjs)
+[![Version](http://img.shields.io/npm/v/@akagi201/lightjs.svg)](https://www.npmjs.org/package/@akagi201/lightjs)
 [![Build Status](https://travis-ci.org/Akagi201/lightjs.svg?branch=master)](https://travis-ci.org/Akagi201/lightjs)
 [![Code style: airbnb](https://img.shields.io/badge/code%20style-airbnb-blue.svg?style=flat)](https://github.com/airbnb/javascript)
 
