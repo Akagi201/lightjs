@@ -3,6 +3,7 @@
 [![Version](http://img.shields.io/npm/v/@akagi201/lightjs.svg)](https://www.npmjs.org/package/@akagi201/lightjs)
 [![Build Status](https://travis-ci.org/Akagi201/lightjs.svg?branch=master)](https://travis-ci.org/Akagi201/lightjs)
 [![Code style: airbnb](https://img.shields.io/badge/code%20style-airbnb-blue.svg?style=flat)](https://github.com/airbnb/javascript)
+[![dependencies Status](https://david-dm.org/Akagi201/lightjs/status.svg)](https://david-dm.org/Akagi201/lightjs)
 
 > A light boilerplate for building a universal (Node, web, UMD) ES6 npm package.
 
